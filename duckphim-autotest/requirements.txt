@@ -1,0 +1,5 @@
+pytest          # framework chạy test (khóa Introduction to Testing in Python)
+requests        # gọi API bằng code (khóa Introduction to APIs in Python)
+selenium        # điều khiển trình duyệt để test giao diện
+pytest-html     # xuất báo cáo kết quả test ra file HTML
+python-dotenv   # đọc tài khoản/mật khẩu test từ file .env (không lộ lên code)pip install -r requirements.txt
